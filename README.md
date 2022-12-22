@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Vinícius. I'm from Macaé, Rio de Janeiro, Brasil 🇧🇷.
+I'm Vinícius. I'm from Macaé, Rio de Janeiro, Brasil.
 
 Currently working as Sr Software Developer @ Sapiensia Tecnologia (full-time), since September 2019.
 

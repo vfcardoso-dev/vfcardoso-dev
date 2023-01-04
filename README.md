@@ -2,7 +2,7 @@
 
 I'm Vinícius. I'm from Macaé, Rio de Janeiro, Brasil.
 
-Currently working as Sr Software Developer @ Sapiensia Tecnologia (full-time), since September 2019.
+Currently working as Sr Software Developer @ Sapiensia Tecnologia (full-time), since September 2019.<br>
 You can contact me at hello [at] vfcardoso [dot] dev.
 
 This is my personal github profile, where I'm maintaining some public and private repositories. Feel free to explore.

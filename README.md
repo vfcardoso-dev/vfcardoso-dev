@@ -30,3 +30,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- Mastodon profile linkback -->
+<link href="https://bolha.us/@vfcardoso" rel="me">

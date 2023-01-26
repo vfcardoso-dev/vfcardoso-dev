@@ -16,7 +16,7 @@ Here are a few facts about me:
 - As a old school nerd, I love science fiction and fantasy: star trek, star wars, lotr…
 - I like wine 🍷 and coffee ☕ too.
 
---
+--<br>
 <a href="https://bolha.us/@vfcardoso" rel="me">Mastodon verification</a> 
 
 <!--

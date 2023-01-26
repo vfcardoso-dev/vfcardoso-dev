@@ -16,9 +16,6 @@ Here are a few facts about me:
 - As a old school nerd, I love science fiction and fantasy: star trek, star wars, lotr…
 - I like wine 🍷 and coffee ☕ too.
 
-<!-- Mastodon profile linkback --> 
-<a rel="me" href="https://bolha.us/@vfcardoso" style="display:none"></a>
-
 <!--
 **vfcardoso-dev/vfcardoso-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

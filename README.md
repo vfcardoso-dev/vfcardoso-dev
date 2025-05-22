@@ -12,7 +12,7 @@ Here are a few facts about me:
 - My hometown 📍 is Casimiro de Abreu/RJ, where the eponymous poet lived.
 - I've been an amateur musician since I was 12 years old. I play some musical instruments, but I prefer the piano 🎹.
 - I'm interested in biology, astronomy, physics, chemistry and other STEM fields 🔬.
-- I really like photography 📷 too. I have a <a href="https://www.flickr.com/photos/vinicardoso">flickr account</a> with some pictures.
+- I really like photography 📷 too. <!--I have a <a href="https://www.flickr.com/photos/vinicardoso">flickr account</a> with some pictures. -->
 - As a old school nerd, I love science fiction and fantasy: star trek, star wars, lotr…
 - I like wine 🍷 and coffee ☕ too.
 
